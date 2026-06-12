@@ -1,4 +1,4 @@
-import { CheckCircle2Icon, icons, Trash2Icon, Undo2Icon } from "lucide-react";
+import { CheckCircle2Icon, Trash2Icon, Undo2Icon } from "lucide-react";
 import { Button } from "./components/ui/button";
 import { Input } from "./components/ui/input";
 import { useEffect, useRef, useState } from "react";
